@@ -1,6 +1,7 @@
 Robert Caro Method
 
-English | 简体中文
+
+[English](./README.md) | **简体中文**
 
 An OpenClaw AgentSkill based on the exhaustive research methodologies of legendary biographer Robert A. Caro. This skill transforms the AI into a structural power analyst capable of evaluating power dynamics, institutional mechanics, and the strategic decisions of leaders.
 
@@ -206,3 +207,4 @@ Download the repository files.
 
 
 Move the entire folder (or the .skill package) into your OpenClaw skills directory: ~/.openclaw/workspace/skills/
+
