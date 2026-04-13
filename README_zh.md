@@ -39,3 +39,7 @@
 ```bash
 cd ~/.openclaw/workspace/skills/
 git clone https://github.com/kent666/openclaw-skill-robert-caro-method.git robert-caro-method
+方式二：使用安装包
+
+  1. 在 Releases 中下载 robert-caro-method.skill 文件（或直接下载源码压缩包）。
+  2. 将文件移动至 ~/.openclaw/workspace/skills/ 目录。
