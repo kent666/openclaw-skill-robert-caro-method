@@ -28,14 +28,14 @@
 | 《The Passage of Power》 | 319,669 | 32:45 | 712 | 2012 |
 | **总计** | **2,047,031** | **213:15** | **4,697** | |
 
-## 触发与适用场景
+## 安装说明
 
-安装该技能后，在对话中提及以下关键词即可触发专用分析模式：
+在 OpenClaw 中安装此技能有两种方式：
 
-- 「Robert Caro」 或 「卡罗方法」
-- 「权力分析」 或 「制度机制分析」
+### 方式一：克隆仓库（推荐）
 
-**适用场景示例**：
-- 剖析复杂的公司政治或组织架构重组。
-- 评估长线商业战略的潜在后果与利益博弈。
-- 深度研究特定历史人物或机构的发展轨迹。
+直接将此仓库克隆到 OpenClaw 的 skills 目录下：
+
+```bash
+cd ~/.openclaw/workspace/skills/
+git clone https://github.com/kent666/openclaw-skill-robert-caro-method.git robert-caro-method
